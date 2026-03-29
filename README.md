@@ -1,6 +1,6 @@
 # Arshdeep Singh
 
-Engineering student in progress.
+CSE student in progress.
 Focused on disciplined learning, deep problem solving, and building systems that scale.
 
 I work at the intersection of:
@@ -10,7 +10,7 @@ I work at the intersection of:
 * Conceptual modeling
 * Study optimization systems
 
-Long-term trajectory → IIT CSE → high-impact engineering → institutional reform.
+Long-term trajectory → CSE → high-impact engineering → institutional reform.
 
 ---
 
@@ -25,7 +25,7 @@ Long-term trajectory → IIT CSE → high-impact engineering → institutional r
 
 ## Current Focus
 
-* Advanced PCM foundation for JEE
+* Advanced Science foundation
 * Building educational tooling
 * Visualization-driven learning apps
 * Strengthening algorithmic thinking
@@ -35,9 +35,9 @@ Long-term trajectory → IIT CSE → high-impact engineering → institutional r
 
 ## Active Projects
 
-* Element & orbital learning platform
-* Todo + Pomodoro analytics web system
-* Experimental concept visualization tools
+* CompLabDE
+* LifeQuest
+* ActiveLearn
 
 ---
 
@@ -60,6 +60,6 @@ Long-term trajectory → IIT CSE → high-impact engineering → institutional r
 
 ---
 
-<p align="center">
+<h1 align="center">
   <i>"Build capability first. Recognition follows."</i>
-</p>
+</h1>
