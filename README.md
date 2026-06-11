@@ -1,16 +1,14 @@
 # Arshdeep Singh
 
 CSE student in progress.
-Focused on disciplined learning, deep problem solving, and building systems that scale.
+Focused on disciplined learning, deep problem solving, and building systems that scale... and actually work.
 
 I work at the intersection of:
 
 * Computational thinking
-* Frontend & application architecture
-* Conceptual modeling
+* Application architecture
+* Product Design
 * Study optimization systems
-
-Long-term trajectory → CSE → high-impact engineering → institutional reform.
 
 ---
 
@@ -18,26 +16,8 @@ Long-term trajectory → CSE → high-impact engineering → institutional refor
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,vite,react,py,django" /><br>
-  <img src="https://skillicons.dev/icons?i=windows,linux,vscode,figma,npm,git,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,npm,git,github" />
 </p>
-
----
-
-## Current Focus
-
-* Advanced Science foundation
-* Building educational tooling
-* Visualization-driven learning apps
-* Strengthening algorithmic thinking
-* Systems-level software design mindset
-
----
-
-## Active Projects
-
-* CompLabDE
-* LifeQuest
-* ActiveLearn
 
 ---
 
@@ -55,8 +35,7 @@ Long-term trajectory → CSE → high-impact engineering → institutional refor
 * GitHub: [DevArshdeepSingh](https://github.com/DevArshdeepSingh)
 * LinkedIn: [Arshdeep Singh](https://linkedin.com/in/dev-arshdeep)
 * Instagram: [Arshdeep - @being_3.14159265358979323846](https://www.instagram.com/being_3.14159265358979323846)
-* Gmail: beingarshdeepsingh@gmail.com
-* ProtonMail: Dev.ArshdeepSingh@proton.me
+* Mail: Dev.ArshdeepSingh@proton.me
 
 ---
 
