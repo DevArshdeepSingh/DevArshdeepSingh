@@ -16,7 +16,7 @@ I work at the intersection of:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,vite,react,py,django" /><br>
-  <img src="https://skillicons.dev/icons?i=vscode,figma,npm,git,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,npm,git,github,windows,linux" />
 </p>
 
 ---
@@ -35,7 +35,8 @@ I work at the intersection of:
 * GitHub: [DevArshdeepSingh](https://github.com/DevArshdeepSingh)
 * LinkedIn: [Arshdeep Singh](https://linkedin.com/in/dev-arshdeep)
 * Instagram: [Arshdeep - @being_3.14159265358979323846](https://www.instagram.com/being_3.14159265358979323846)
-* Mail: Dev.ArshdeepSingh@proton.me
+* GMail: [Arshdeep Singh](mailto:beingarshdeepsingh@gmail.com)
+* PMail: [Arshdeep Singh](mailto:Dev.ArshdeepSingh@proton.me)
 
 ---
 
